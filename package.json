@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
+    "crstart": "node carrierresponderserver.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Paul Merlyn",
@@ -14,8 +15,10 @@
   },
   "dependencies": {
     "config": "^1.30.0",
+    "dateformat": "^3.0.3",
     "mustache": "^2.3.0",
     "request": "^2.87.0",
+    "url": "^0.11.0",
     "xml2js": "^0.4.19"
   }
 }
