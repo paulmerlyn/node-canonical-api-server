@@ -1,0 +1,14 @@
+Request for carrier ATT logged on 2018-05-26T01:50:23.735Z
+
+                    <ATTcreditcheckrequest xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+                    <fullName>David Smith</fullName>
+                    <address>
+                    <addressLine1>123 Oak St.</addressLine1>
+                    <city>Treeville</city>
+                    <state>CA</state>
+                    <postalCode>94067</postalCode>
+                    </address>
+                    <driverLicStateNumber>CA-1234567890</driverLicStateNumber>
+                    <ssn>438507094</ssn>
+                    </creditcheckrequest>
+                

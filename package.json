@@ -1,0 +1,21 @@
+{
+  "name": "proactivate",
+  "version": "0.0.1",
+  "description": "Proactivate is a provisioning and activation service, exposing industry-standard canonical APIs to provision and activate a universe of digital services",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Merlyn",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "config": "^1.30.0",
+    "mustache": "^2.3.0",
+    "request": "^2.87.0",
+    "xml2js": "^0.4.19"
+  }
+}

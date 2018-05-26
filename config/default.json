@@ -1,0 +1,17 @@
+{
+  "canonical_server": {
+    "port": 8001
+  },
+  "carrier_responders": {
+    "ATT": {
+      "url": "http://localhost:7000/att"
+    },
+    "SPT": {
+      "url": "http://localhost:7000/sprint"
+    },
+    "VZN": {
+      "url": "http://localhost:7000/verizon"
+    }
+  },
+  "use_carrier_responder": true
+}
